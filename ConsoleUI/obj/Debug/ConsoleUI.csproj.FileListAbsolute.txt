@@ -1,0 +1,11 @@
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\Ex03.ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\bin\Debug\ConsoleUtils.dll
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\bin\Debug\GarageLogic.dll
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\bin\Debug\ConsoleUtils.pdb
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\bin\Debug\GarageLogic.pdb
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUI\obj\Debug\ConsoleUI.pdb

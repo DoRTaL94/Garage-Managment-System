@@ -1,0 +1,8 @@
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\GarageLogic\obj\Debug\GarageLogic.csprojResolveAssemblyReference.cache
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\GarageLogic\bin\Debug\GarageLogic.dll.config
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\GarageLogic\bin\Debug\ConsoleUtils.dll
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\GarageLogic\bin\Debug\ConsoleUtils.pdb
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\GarageLogic\obj\Debug\GarageLogic.pdb

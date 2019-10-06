@@ -1,0 +1,6 @@
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 3\B19 Ex03 DanielKfir 203448501 DorTal 206318537\Ex03.ConsoleUtils\bin\Debug\Ex03.ConsoleUtils.dll.config
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 3\B19 Ex03 DanielKfir 203448501 DorTal 206318537\Ex03.ConsoleUtils\bin\Debug\Ex03.ConsoleUtils.dll
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 3\B19 Ex03 DanielKfir 203448501 DorTal 206318537\Ex03.ConsoleUtils\bin\Debug\Ex03.ConsoleUtils.pdb
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 3\B19 Ex03 DanielKfir 203448501 DorTal 206318537\Ex03.ConsoleUtils\obj\Debug\Ex03.ConsoleUtils.csprojResolveAssemblyReference.cache
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 3\B19 Ex03 DanielKfir 203448501 DorTal 206318537\Ex03.ConsoleUtils\obj\Debug\Ex03.ConsoleUtils.dll
+C:\Users\dorta\Desktop\לימודים\C#\שיעורי בית\הגשה 3\B19 Ex03 DanielKfir 203448501 DorTal 206318537\Ex03.ConsoleUtils\obj\Debug\Ex03.ConsoleUtils.pdb

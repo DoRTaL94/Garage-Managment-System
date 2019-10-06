@@ -1,0 +1,5 @@
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUtils\bin\Debug\ConsoleUtils.dll.config
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUtils\bin\Debug\ConsoleUtils.dll
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUtils\bin\Debug\ConsoleUtils.pdb
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUtils\obj\Debug\ConsoleUtils.dll
+C:\Users\dorta\Documents\GitHub\Garage-Managment-System\ConsoleUtils\obj\Debug\ConsoleUtils.pdb
